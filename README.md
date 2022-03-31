@@ -28,6 +28,5 @@ The data consists of 1084 rows and 11 columns. with the following labels:
 * The best model is the XG Boost Regression model with parameter learning_rate 0.1, and n_estimators 200 because it has the largest R-squared and the smallest MAE and RMSE compared to other models.
 * Managed to obtain an accuracy close to 81%.
 
-![model_evaluation](https://user-images.githubusercontent.com/97724828/161030627-7ec64aee-dc73-459d-87c6-1a4d3e506e7f.png)
-\
+![model_evaluation](https://user-images.githubusercontent.com/97724828/161031194-202a61f4-457e-4233-8b06-ee097780c1e9.png)\
 The image above shows the model evaluation of the test datasets.
